@@ -1,0 +1,7 @@
+.nav-link a {
+    color: rgba(0,0,0,.5);
+}
+.nav-link a:hover {
+    color: rgba(0,0,0,.7);
+    text-decoration: none;
+}

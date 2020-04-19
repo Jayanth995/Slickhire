@@ -1,0 +1,20 @@
+.middle_container.statusContainer {
+    overflow-y: auto;
+}
+.JobIdRow {
+    position: relative;
+    left: 1em;
+    width: 100%;
+}
+
+.jobCard {
+    width: 60%;
+    max-height: 12em;
+    margin: 10px;
+    box-shadow: 0 2px 6px 0 rgba(0,106,194,.2);
+}
+
+.jobCard a, .jobCard a:hover {
+    color: unset;
+    text-decoration: none;
+}
